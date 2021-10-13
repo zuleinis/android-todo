@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [ezGIF](https://ezgif.com/).
 
 ## Notes
-While building the app, I struggled a little with getting used to Android Studio, especially the design tab.
+While building the app, I struggled a little with getting used to Android Studio at first, especially the design tab. Fortunately, I was able to find documentation on how to achieve the things I wanted to get done. 
 
 ## License
 
